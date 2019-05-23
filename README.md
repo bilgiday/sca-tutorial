@@ -13,11 +13,11 @@
 3- Install Python packages numpy and matplotlib
 	- Open a powershell window
 	- Run the following commands:
-		pip install --proxy=proxy-chain.intel.com:911 numpy 
-		Alternative (python -m pip install --proxy=proxy-chain.intel.com:911 numpy)
+		pip install --proxy=<proxy> numpy 
+		Alternative (python -m pip install --proxy=<proxy> numpy)
 		
 		pip install --proxy=proxy-chain.intel.com:911 matplotlib
-		Alternative (python -m pip install --proxy=proxy-chain.intel.com:911 matplotlib)
+		Alternative (python -m pip install --proxy=<proxy> matplotlib)
 
 4. 1GB of free space for downloading additional material.
 ####################################################################
